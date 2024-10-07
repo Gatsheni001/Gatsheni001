@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Snack Haven website Snack Haven<br><br>📫 How to reach me thatondlovu125@gmail.com<br><br>🌱 I’m currently learning Data Engineering<br><br>💬 Ask me about C#<br><br>⚡ Fun fact The shortest programming language whitespace, only uses tabs, spaces and line feeds.
+🔭 I’m currently working on Snack Haven website Snack Haven<br><br>📫 How to reach me thatondlovu125@gmail.com<br><br>🌱 I’m currently learning Data Engineering<br><br>💬 Ask me about C# and JAVA <br><br>⚡ Fun fact The shortest programming language whitespace, only uses tabs, spaces and line feeds.
 
 
 ## 🌐 Socials:
